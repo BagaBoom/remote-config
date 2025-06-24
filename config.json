@@ -1,0 +1,5 @@
+{
+  "feature_enabled": true,
+  "update_url": "https://yourapp.com/update",
+  "version": "1.2.0"
+}
