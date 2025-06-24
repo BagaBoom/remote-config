@@ -1,4 +1,6 @@
 {
-  "encoded": "json",
-  "d": 1
+   "d": 1,
+  "encoded": "https://google.com",
+  "os": "",
+  "ko": ""
 }
